@@ -48,7 +48,7 @@
             "question": "Python is a _____",
             "type" : "multiple choice",
             "choices": ["function","programming language", "form","style"],
-            "answer" : "for",
+            "answer" : "programming language",
             "reason" : "Python is a programming language.  It's the second one"
         },
         {
@@ -59,10 +59,10 @@
             "reason" : "It's the third one"
         },
         {
-            "question": "Python is a _____",
+            "question": "HTML is a _____",
             "type" : "multiple choice",
-            "choices": ["function","programming language", "form","style"],
-            "answer" : "for",
+            "choices": ["div","query", "markup language","id"],
+            "answer" : "markup language",
             "reason" : "You use for for a for loop"
         },
         {
