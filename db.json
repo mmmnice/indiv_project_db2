@@ -36,6 +36,113 @@
             "choices": [],
             "answer" : "for",
             "reason" : "You use for for a for loop"
+        },
+        {
+            "question": "what word do you use to make a while loop?",
+            "type" : "short answer",
+            "choices": [],
+            "answer" : "while",
+            "reason" : "You use while for a while loop"
+        },
+        {
+            "question": "Python is a _____",
+            "type" : "multiple choice",
+            "choices": ["function","programming language", "form","style"],
+            "answer" : "for",
+            "reason" : "Python is a programming language.  It's the second one"
+        },
+        {
+            "question": "Which is the icon for C++?",
+            "type" : "image",
+            "choices": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png","https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png","https://i7.pngguru.com/preview/46/626/460/the-c-programming-language-computer-icons-computer-programming-source-code-programming.jpg"],
+            "answer" : "https://i7.pngguru.com/preview/46/626/460/the-c-programming-language-computer-icons-computer-programming-source-code-programming.jpg",
+            "reason" : "It's the third one"
+        },
+        {
+            "question": "Python is a _____",
+            "type" : "multiple choice",
+            "choices": ["function","programming language", "form","style"],
+            "answer" : "for",
+            "reason" : "You use for for a for loop"
+        },
+        {
+            "question": "Which is the icon for C#?",
+            "type" : "image",
+            "choices": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png","https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png","https://www.stickpng.com/assets/images/58480979cef1014c0b5e4901.png"],
+            "answer" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png",
+            "reason" : "It's the second one"
+        },
+        {
+            "question": "Which is the icon for javascript?",
+            "type" : "image",
+            "choices" :["https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png","https://img.favpng.com/16/10/16/python-javascript-logo-clojure-png-favpng-3x1GWHfajrTRuNP9cpdDLjbcc.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"],
+            "answer" : "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+            "reason" : "It's the first one"
+        },
+        {
+            "question": "A ____ is a Python object with arbitrarily named attributes that you can bind and reference.",
+            "type" : "fill in the blank",
+            "choices" : [],
+            "answer" : "module",
+            "reason" : "The answer is 'module'"
+        },
+        {
+            "question": "Booleans are a data type that is either true or false",
+            "type" : "true false",
+            "choices" : ["true", "false"],
+            "answer" : "true",
+            "reason" : "The answer is true"
+        },
+        {
+            "question": "To get user input in python, use the command input() and store the result in a variable",
+            "type" : "true false",
+            "choices" : ["true", "false"],
+            "answer" : "true",
+            "reason" : "The answer is true"
+        },
+        {
+            "question": "A ____ is a Python data type with one or more characters put in quotations",
+            "type" : "fill in the blank",
+            "choices" : [],
+            "answer" : "string",
+            "reason" : "The answer is 'string'"
+        },
+        {
+            "question": "A python ____ function behaves like a normal function in regard to arguments.",
+            "type" : "multiple choice",
+            "choices" : ["lambda","list","string","import"],
+            "answer" : "lambda",
+            "reason" : "The answer is 'lambda'"
+        },
+        {
+            "question": "There is no such thing as inheritance in python.",
+            "type" : "true false",
+            "choices" : [],
+            "answer" : "false",
+            "reason" : "There is such thing as inheritance in python.  Class properties can be inherited from other classes"
+        },
+        {
+            "question": "You can convert a JSON element into something readable in python by using the loads method",
+            "type" : "true false",
+            "choices" : ["true", "false"],
+            "answer" : "true",
+            "reason" : "The answer is true"
+        },
+        {
+            "question": "There is no such thing as an integer data type in python",
+            "type" : "true false",
+            "choices" : ["true", "false"],
+            "answer" : "false",
+            "reason" : "The answer is false"
+        },
+        {
+            "question": "What is another term for an array in python",
+            "type" : "short answer",
+            "choices" : [],
+            "answer" : "list",
+            "reason" : "The answer is list"
         }
+        
+        
     ]
 }
